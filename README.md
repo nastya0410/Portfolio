@@ -12,10 +12,10 @@
 
 https://docs.google.com/spreadsheets/d/1Fa5UB9SEHSWRn76yFbR97yVJb7TYhqCAaoh2DZL1n3s/edit?usp=sharing
 
-**Приклади**
+## Приклади
 
- Test-Cases
-[test cases for _filmoteka_.xlsx](https://github.com/user-attachments/files/18564037/test.cases.for._filmoteka_.xlsx)
+ Test-Cases/ samples.txt
+
 
 ├── Bug-Reports
 │   └── [bug reports _filmoteka_.xlsx](https://github.com/user-attachments/files/18564049/bug.reports._filmoteka_.xlsx)
