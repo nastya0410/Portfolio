@@ -62,8 +62,7 @@ https://docs.google.com/spreadsheets/d/1Fa5UB9SEHSWRn76yFbR97yVJb7TYhqCAaoh2DZL1
 | **ID**        | BUG005                           |
 | **Priority**      | High                             |
 | **Severity**    | Medium                            |
-| **Description**          | Broken pagination on the search results page.
- |
+| **Description**          | Broken pagination on the search results page.|
 | **Steps to Reproduce:** | 1. Open the website. <br>2. Perform a search using any keyword.<br>3. Scroll to the bottom of the results and click on "Next Page." |
 | **Expected result** | The pagination works correctly, displaying the next set of results. |
 | **Actual result** | The page reloads but displays the same results instead of moving to the next set of results. |
@@ -76,8 +75,7 @@ https://docs.google.com/spreadsheets/d/1Fa5UB9SEHSWRn76yFbR97yVJb7TYhqCAaoh2DZL1
 | **ID**        | BUG006                           |
 | **Priority**      | Medium                             |
 | **Severity**    | Low                            |
-| **Description**          | Missing tooltips for icons in the navigation bar.
- |
+| **Description**          | Missing tooltips for icons in the navigation bar.|
 | **Steps to Reproduce:** | 1. Open the homepage. <br>2. Hover over the icons in the navigation bar. |
 | **Expected result** | Tooltips are displayed for each icon, describing its functionality. |
 | **Actual result** | No tooltips are displayed. |
