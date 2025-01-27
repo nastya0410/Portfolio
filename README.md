@@ -15,7 +15,7 @@ https://docs.google.com/spreadsheets/d/1Fa5UB9SEHSWRn76yFbR97yVJb7TYhqCAaoh2DZL1
 ## Приклади
 
 
-## 🧪 **Test Cases**
+## 🧪 **Test Cases(Ukrainian)**
 
 ### Приклад 1: Тестування форми реєстрації
 | ID            | TC001                     |
@@ -39,22 +39,22 @@ https://docs.google.com/spreadsheets/d/1Fa5UB9SEHSWRn76yFbR97yVJb7TYhqCAaoh2DZL1
 ### Example 3: Profile Update
 | ID            | TC003                    |
 |---------------|---------------------------|
-| **Title **     | Verify that the user can successfully update their profile information. |
-| **Precondition **| User is logged in. <br>2. User is on the "Profile" page. |
-| **Steps **     | 1. Navigate to the "Profile" page. <br>2. Click on the "Edit" button. <br>3 Update the name, email, and phone number fields with valid data. <br>4 Click "Save." |
-| **Expected results ** | The profile is updated successfully, and a confirmation message is displayed. |
+| **Title**     | Verify that the user can successfully update their profile information. |
+| **Precondition**| User is logged in. <br>2. User is on the "Profile" page. |
+| **Steps**     | 1. Navigate to the "Profile" page. <br>2. Click on the "Edit" button. <br>3 Update the name, email, and phone number fields with valid data. <br>4 Click "Save." |
+| **Expected results** | The profile is updated successfully, and a confirmation message is displayed. |
 
 ### Example 4: Profile Update
 | ID            | TC004                    |
 |---------------|---------------------------|
-| **Title **     | Verify that the password reset functionality sends a reset link to the registered email. |
-| **Precondition **| User is logged out. |
-| **Steps **     | 1. Open the "Forgot Password" page. <br>2 Enter the registered email address in the input field. <br>3 Click "Send Reset Link." |
-| **Expected results ** | A confirmation message is displayed, and the reset link is sent to the provided email address. |
+| **Title**     | Verify that the password reset functionality sends a reset link to the registered email. |
+| **Precondition**| User is logged out. |
+| **Steps**     | 1. Open the "Forgot Password" page. <br>2 Enter the registered email address in the input field. <br>3 Click "Send Reset Link." |
+| **Expected results** | A confirmation message is displayed, and the reset link is sent to the provided email address. |
 
 ---
 
-## 🐞 **Bug Reports**
+## 🐞 **Bug Reports(English)**
 
 ### Example 1: Broken pagination on the search results page.
 | Поле              | Значення                          |
@@ -81,6 +81,7 @@ https://docs.google.com/spreadsheets/d/1Fa5UB9SEHSWRn76yFbR97yVJb7TYhqCAaoh2DZL1
 | **Actual result** | No tooltips are displayed. |
 
 ---
+## 🐞 **Bug Reports(Ukrainian)**
 
 ### Приклад 3: Некоректне відображення дат у списку оголошень.
 | Поле              | Значення                          |
